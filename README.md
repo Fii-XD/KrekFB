@@ -18,12 +18,9 @@ git clone https://github.com/Fii-XD/KrekFB
 
 cd KrekFB
 
-python Oren.py
+python Krek.py
 
 # Jika Ada Kesalahan Hubungi Admin
-
-( Wa : +6285779589954 )
-
-# Enjoy Ges
-
+Wa : +6285779589954 
 FB : Fii Dev
+# Enjoy Ges
